@@ -1,0 +1,5 @@
+2020-10-14 17:30:42.189  INFO 14096 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-14 17:30:42.868  WARN 14096 --- [main] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2020-10-14 17:30:43.478  WARN 14096 --- [main] c.z.v.VideowebsiteApplicationTests       : 类型:"m3u8
+2020-10-14 17:30:43.479 ERROR 14096 --- [main] c.z.v.VideowebsiteApplicationTests       : 类型:"m3u8
+2020-10-14 17:30:43.524  INFO 14096 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

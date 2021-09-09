@@ -1,0 +1,13 @@
+body.bodystyle{
+  background: url("../img/login.jpg");
+  background-repeat: no-repeat;
+}
+body.registerbodystyle{
+  background: url("../img/register.jpg");
+ 
+}
+body.uploadbodystyle{
+  background: url("../img/upload.jpg");
+  background-repeat: no-repeat;
+  color: white;
+}
